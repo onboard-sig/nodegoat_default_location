@@ -1,0 +1,1 @@
+# nodegoat_default_location
